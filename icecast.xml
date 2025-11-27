@@ -14,8 +14,7 @@
   </limits>
 
   <authentication>
-    <!-- This is the password PlayIt Live will use -->
-    <source-password>ThisIsTheWay123</source-password>
+      <source-password>ThisIsTheWay123</source-password>
 
     <admin-user>admin</admin-user>
     <admin-password>ForgeAdmin123</admin-password>
@@ -56,4 +55,5 @@
   </mount>
 
 </icecast>
+
 
