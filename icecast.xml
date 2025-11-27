@@ -15,10 +15,10 @@
 
   <authentication>
     <!-- This is the password PlayIt Live will use -->
-    <source-password>YOUR_SOURCE_PASSWORD</source-password>
+    <source-password>ThisIsTheWay123</source-password>
 
     <admin-user>admin</admin-user>
-    <admin-password>YOUR_ADMIN_PASSWORD</admin-password>
+    <admin-password>ForgeAdmin123</admin-password>
   </authentication>
 
   <hostname>localhost</hostname>
@@ -56,3 +56,4 @@
   </mount>
 
 </icecast>
+
